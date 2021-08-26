@@ -9,6 +9,8 @@ From right side to update menu as sub menu or main menu i fixed the code as per 
 I completed task as per my udarstanding.
 
 
-
+******DISCLAIMER********
+front end CSS used from Bootstap v4. and some code from online open sources.
+back end completly coded by me.
 
 THANK YOU
