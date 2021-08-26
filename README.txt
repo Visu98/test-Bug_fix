@@ -1,6 +1,14 @@
 ----------THIS IS MY TEST FOR INTERVIW TEST--------------------
 
-HERE I WORK FOR 2 HOUR FOR THIS TEST I CANT TAKE MORE TIME DUE TO SOME TIME RESPECT AND 
-HERE I TRY TO COMPLETE WHAT CAN I DO AND I STUCK ON FRONT END MENU BAR.FOR UNDARSATDNIG OF SECOND PART OF QUESTIONS IT IS TAKING TIME AND I DIDNT GET IT BUT I WILL TRY TO SOLVE IN FUTURE.
+Dear sir sorry for this delay.
+Sir basically i fixxed the bug and upload it again here as new code and i thoght just by yesterday night i should to upload the code so by the end of the day i did not work and after gatting a call at 12 PM i start again to solve that.
+
+All feature like add menu from lest side 
+From right side to update menu as sub menu or main menu i fixed the code as per requirement.
+
+I completed task as per my udarstanding.
+
+
+
 
 THANK YOU
